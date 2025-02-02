@@ -5,14 +5,6 @@
 <h4 align="center">&#128172; Ask me anything <a href="https://github.com/bimnett/bimnett/issues/new/choose"><i>here</i></a></h4>
 <br>
 
-<!-- Social badges-->
-<p align="center">
-  
-  <a href="https://linkedin.com/in/bimnet-tesfamariam">
-    <img src="docs/linkedin_icon.png" width="32px" height="32px"/></a>
-
-</p>
-
 <!-- STATS SHIELDS -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
